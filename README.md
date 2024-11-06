@@ -1,2 +1,1 @@
-# azure-resume
-My own Azure resume,
+# Your frontend live here
